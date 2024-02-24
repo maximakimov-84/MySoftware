@@ -1,2 +1,2 @@
-def click() -> Any:
+def click() -> None:
   print("Click")

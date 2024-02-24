@@ -1,2 +1,2 @@
 def click() -> Any:
-  print("Click")
+  print("Click button")
